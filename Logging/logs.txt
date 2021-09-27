@@ -1,0 +1,13 @@
+25 [main] INFO loggingTutorial.MergeTransactions - import data from src/resources/transactions1.csv
+91 [main] INFO loggingTutorial.MergeTransactions - imported transaction Purchase [retailer=Pack and Save, amount=188.0, date=Sun Jun 03 00:00:00 NZST 2012]
+92 [main] INFO loggingTutorial.MergeTransactions - imported transaction Purchase [retailer=Harvey Norman, amount=20.0, date=Tue Jun 12 00:00:00 NZST 2012]
+92 [main] INFO loggingTutorial.MergeTransactions - imported transaction Purchase [retailer=BP, amount=90.0, date=Fri Jun 15 00:00:00 NZST 2012]
+94 [main] INFO loggingTutorial.MergeTransactions - import data from src/resources/transactions2.csv
+98 [main] INFO loggingTutorial.MergeTransactions - imported transaction Purchase [retailer=Pack and Save, amount=230.0, date=Tue May 01 00:00:00 NZST 2012]
+99 [main] INFO loggingTutorial.MergeTransactions - imported transaction Purchase [retailer=Briscoes, amount=10.0, date=Thu May 03 00:00:00 NZST 2012]
+99 [main] INFO loggingTutorial.MergeTransactions - imported transaction Purchase [retailer=Warehouse, amount=20.0, date=Fri May 04 00:00:00 NZST 2012]
+99 [main] INFO loggingTutorial.MergeTransactions - imported transaction Purchase [retailer=Pack and Save, amount=240.0, date=Sun May 06 00:00:00 NZST 2012]
+100 [main] INFO loggingTutorial.MergeTransactions - import data from src/resources/transactions3.csv
+101 [main] INFO loggingTutorial.MergeTransactions - imported transaction Purchase [retailer=Wet Pets, amount=42.0, date=Sun May 13 00:00:00 NZST 2012]
+101 [main] ERROR loggingTutorial.MergeTransactions - cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012
+108 [main] WARN loggingTutorial.MergeTransactions - file src/resources/transactions4.csv does not exist - skip
